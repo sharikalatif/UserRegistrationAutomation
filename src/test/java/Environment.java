@@ -20,7 +20,7 @@ public class Environment {
 		String emailID = chromeDriver.findElement(By.id("mail")).getAttribute("value");
 		chromeDriver.findElement(By.cssSelector("Body")).sendKeys(Keys.CONTROL + "t");
 
-		// open meetup website
+		// open xxxx website
 		chromeDriver.get("https://secure.xxxxxx.com/");
 
 		// Click on Sign Up

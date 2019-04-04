@@ -27,3 +27,7 @@ Note: maven pom.xml should take care of required version of the following:
 ### Automation java files are under
 * ```bash
   ~/src/test/java
+
+### Command to run the tests
+* ```bash
+  mvn clean install
