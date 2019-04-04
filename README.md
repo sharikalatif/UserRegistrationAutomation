@@ -1,6 +1,6 @@
 # UserRegistrationAutomation
 
-* This repo is for sample automation script for dummy email generation and registration in a wwww.xxx.com website
+* This repo is for sample automation script for Test for registration on the site using generated email and upload logo picture on that site. Check that everything went correctly.
 
 ### Prerequisites
 
@@ -16,6 +16,7 @@ Note: maven pom.xml should take care of required version of the following:
 1. Selenium WebDriver
 2. Junit
 3. Maven
+```
 
 ### Manual Test cases
 
